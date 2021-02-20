@@ -40,6 +40,7 @@ OR
 * Run ```npm init -y```
 * Run ```npm install```
 * Verify install works by running ```npm run test``` and ```npm run build```
+* To view in a browser, perform  ```npm run start``` in the terminal
 
 ## Known Bugs
 
